@@ -1,0 +1,111 @@
+
+
+body{
+    
+}
+
+.navbar{
+    padding: 3%;
+}
+
+.btn{   
+    border: 1px solid hsl(322, 100%, 66%);
+    border-radius: 25px; 
+    padding: 5px 20px;
+}
+
+.btn-sec{
+    background-color: hsl(322, 100%, 66%);
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 40px;
+}
+
+#btn-nav{
+    background-color: #fff;
+    color: hsl(322, 100%, 66%);
+}
+
+.container{
+    padding: 5%;
+    text-align: center;
+}
+
+.heading{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+#main-container{
+    margin-top: 50px;
+}
+
+#main-title{
+    font-size: 50px;
+    padding: 0 1%;
+}
+
+#main-info{
+    padding: 2% 30%;
+    font-size: 14px;
+}
+
+h2{
+    font-size: 70px;
+}
+
+.people-img{
+    width: 10%;
+}
+
+.info-container{
+    text-align: left;
+}
+
+.decoration{
+    position: relative;
+    right: 130px;
+}
+
+.deco-bottom{
+    position: relative;
+    bottom: 180px;
+}
+
+#bottom-box{
+    background-color: hsl(192, 100%, 9%);
+    color: #fff;
+    text-align: left;
+}
+
+.left-bottom-col{
+    padding: 10%;
+}
+
+.right-bottom-col{
+    padding: 10% 5%;
+    position: relative;
+    right: 100px;
+}
+
+.icon-contact{
+    float: left;
+    margin: 5px 10px 0 0;
+}
+
+#text-bottom{
+    margin-top: 15px;
+    
+}
+
+footer{
+    background-color: hsl(192, 100%, 9%);
+}
+
+.btn-sus{
+    float: right;
+    position: relative;
+    bottom: 5px;
+    right: 20px;
+}
